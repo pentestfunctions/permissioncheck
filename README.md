@@ -15,6 +15,10 @@ This script, `permissioncheck`, is a powerful tool to inspect file permissions o
    ```bash
    permissioncheck=$(curl https://raw.githubusercontent.com/pentestfunctions/permissioncheck/main/permissioncheck); echo $suidcheck | xclip -sel clipboard
    ```
+3. Once copied to your clipboard with the above command, you can now paste it into your terminal and press enter.
+
+![image](https://github.com/pentestfunctions/permissioncheck/assets/144001335/1947430b-7922-4129-b765-db3e70131b76)
+
 
 ### Traditional Method:
 1. Copy the contents and paste directly into your terminal
